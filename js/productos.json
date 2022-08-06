@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "nombre":"Paleta Sane Impronta",
+        "precio":9000,
+        "img":"img/paleta-sane-impronta-3-1-eva-soft-11-715c002422bf55a2d316386491928155-1024-1024.png",
+        "cantidad":1
+    },
+    {
+        "id":2,
+        "nombre":"Paleta Stell Custom",
+        "precio":21000,
+        "img":"img/victory1-24bad26c6c22d9513516008769281313-640-0.jpg",
+        "cantidad":1
+    },
+    {
+        "id":3,
+        "nombre":"Paleta Babolat",
+        "precio":18000,
+        "img":"img/150076296-71a43c7359aafabbb116039124428474-640-0.jpg",
+        "cantidad":1
+    },
+    {
+        "id":4,
+        "nombre":"Paleta Royal",
+        "precio":20000,
+        "img":"img/rpcrossprocarbon100.jpg",
+        "cantidad":1
+    },
+    {
+        "id":5,
+        "nombre":"Paleta Odea",
+        "precio":8500,
+        "img":"img/pala-passion-400.jpg",
+        "cantidad":1
+    },
+    {
+        "id":6,
+        "nombre":"Paleta Bullpadel",
+        "precio":12000,
+        "img":"img/descarga (3).jfif",
+        "cantidad":1
+    },
+    {
+        "id":7,
+        "nombre":"Paleta Adidas",
+        "precio":15000,
+        "img":"img/paleta-padel-adidas-pro-fibra-vidrio-paddle-38-mm-profesional1-93b6d429a61d57033a15713428194606-480-0.jpg",
+        "cantidad":1
+    }
+]
+
